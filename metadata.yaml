@@ -1,0 +1,25 @@
+_repo: A-Fortune-Hunter--Or-The-Old-Stone-CorralA-Tale-of-the-Santa-Fe-Trail_40546
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carteret, John Dunloe
+    gutenberg_agent_id: '40686'
+    url: http://www.gutenberg.org/2009/agents/40686
+description: ''
+gutenberg_issued: '2012-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40546'
+  lccn: '06020173'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Santa Fe National Historic Trail -- Fiction'
+title: 'A Fortune Hunter; Or, The Old Stone Corral: A Tale of the Santa Fe Trail'
+url: http://www.gutenberg.org/ebooks/40546
